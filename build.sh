@@ -91,6 +91,9 @@ build_uefi Firefly ROC-RK3566-PC
 build_fit ROC-RK3566-PC rk3566-roc-pc
 build_uefi Firefly ROC-RK3568-PC
 build_fit ROC-RK3568-PC rk3568-firefly-roc-pc
+# NanoPi R5S boards
+build_uefi FriendlyElec NanoPiR5S
+build_fit NanoPiR5S rk3568-nanopi-r5s
 
 build_idblock
 
